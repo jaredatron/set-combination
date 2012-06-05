@@ -4,8 +4,8 @@ require File.expand_path('../lib/set/combination/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Jared Grippe"]
   gem.email         = ["jared@deadlyicon.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Defined Set#* and returns a Set::Combination}
+  gem.summary       = %q{Defined Set#* and returns a Set::Combination}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
